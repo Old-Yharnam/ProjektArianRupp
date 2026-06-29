@@ -15,7 +15,7 @@
 
 #define SENSOR_GPIO_PIN GPIO_NUM_10
 #define SENSOR_ACTIVE_LEVEL 0
-#define SENSOR_POLL_DELAY_MS 20
+#define SENSOR_POLL_DELAY_MS 10
 
 
 #define WIFI_SSID "S25+ von Arian"
