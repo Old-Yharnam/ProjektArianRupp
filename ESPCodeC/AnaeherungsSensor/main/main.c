@@ -15,7 +15,8 @@
 
 #define SENSOR_GPIO_PIN GPIO_NUM_10
 #define SENSOR_ACTIVE_LEVEL 0
-#define SENSOR_POLL_DELAY_MS 50
+#define SENSOR_POLL_DELAY_MS 100
+
 
 #define WIFI_SSID "S25+ von Arian"
 #define WIFI_PASSWORD "itnz2378igi8w2p"
