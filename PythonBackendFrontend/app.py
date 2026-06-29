@@ -33,4 +33,5 @@ def main():
     ui.run()
 
 if __name__ in {'__main__', '__mp_main__'}:
+    print("Starting the application...")
     main()
